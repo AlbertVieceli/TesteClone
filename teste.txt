@@ -1,2 +1,5 @@
 Testando o comportamento do repositório remoto e local
 branch teste1
+branch teste2
+branch teste3
+branch teste2.1
