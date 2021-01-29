@@ -4,9 +4,10 @@ branch teste2
 branch teste3
 branch teste2.1
 branch teste4
-apaguei 
+apaguei
 branch teste5
 branch teste6
 branch teste6.1
 branch teste7
 edit remoto
+editei sem dar um fetch e um pull, sou meio tapado
